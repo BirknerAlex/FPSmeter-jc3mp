@@ -1,0 +1,16 @@
+{
+  "name": "FPSmeter-jc3mp",
+  "homepage": "https://fpsmeter.org",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Alexander 'tyrola' Birkner",
+      "email": "tyrola@tyroala.t",
+      "url": "https://tyrola.at"
+    }
+  ],
+  "dependencies": {
+    "nodejs-websocket": "^1.1.1"
+  },
+  "jcmp_dependencies": []
+}
